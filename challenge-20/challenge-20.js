@@ -139,5 +139,5 @@
         return regex.test(email);
     }
 
-    console.log(isValidEmail('pedrobalahotmail.uy'));
+    console.log(isValidEmail('pedrobalahotmail.uy')); 
 }(window, document));
